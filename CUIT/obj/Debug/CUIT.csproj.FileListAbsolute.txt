@@ -1,0 +1,7 @@
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\bin\Debug\CUIT.dll
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\bin\Debug\CUIT.pdb
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\obj\Debug\CUIT.csprojResolveAssemblyReference.cache
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\obj\Debug\CUIT.dll
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\obj\Debug\CUIT.pdb
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\bin\Debug\data.csv
+C:\Users\hodan\Desktop\KDPM_Buoi08\CUIT\bin\Debug\data-min-max.csv

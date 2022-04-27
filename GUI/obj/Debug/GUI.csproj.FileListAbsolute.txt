@@ -1,0 +1,18 @@
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\bin\Debug\GUI.exe.config
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\bin\Debug\GUI.exe
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\bin\Debug\GUI.pdb
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\obj\Debug\GUI.Properties.Resources.resources
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\obj\Debug\GUI.exe
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\obj\Debug\GUI.pdb
+E:\hk6\KDPM\Bài tập\KDPM_Buoi08\GUI\obj\Debug\GUI.FrmCalculator.resources
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\bin\Debug\GUI.exe.config
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.exe
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.pdb
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\bin\Debug\GUI.exe
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\bin\Debug\GUI.pdb
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.FrmCalculator.resources
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.Properties.Resources.resources
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\hodan\Desktop\KDPM_Buoi08\GUI\obj\Debug\GUI.FrmMinMax.resources
